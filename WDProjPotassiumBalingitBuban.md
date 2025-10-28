@@ -1,5 +1,5 @@
 Project Proposal
-#### K04 BALINGIT, Arabella + K05 BUBAN, Isabel !!
+#### K04 BALINGIT, Arabella + K05 BUBAN, Isabel
 
 ---
 
