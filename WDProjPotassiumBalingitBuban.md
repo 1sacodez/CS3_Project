@@ -1,6 +1,8 @@
 Project Proposal
-#### K04 BALINGIT, Bella + K05 BUBAN, Isabel !!
+#### K04 BALINGIT, Arabella + K05 BUBAN, Isabel !!
+
 ---
+
 Title: __
 Second Title: ___
 Logo:
