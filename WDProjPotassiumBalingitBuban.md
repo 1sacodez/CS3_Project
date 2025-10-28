@@ -1,21 +1,38 @@
-#Project Proposal
+Project Proposal
+#### K04 BALINGIT, Bella + K05 BUBAN, Isabel !!
+---
+Title: __
+Second Title: ___
+Logo:
 
-1. A working website Title. The title should be short, catchy and would encapsulate what the website is about.  This title will be used on the website browser tab.
+![Bob](bob.png)
 
-2. A second title could be used to emphasize the importance of the website.
+<u>Description of Website:</u>
 
-3. A logo for your website should also be designed. To be used in every page of the website and on the web browser tab (the favicon/icon)
+    [Website name] is a fun and interactive website to quiz you on how well you know selected students of 9-Potassium Batch 2029!
 
-4. A short but comprehensive description of the website using only one or two paragraphs.  This will be used as part of the homepage content of your website.
+    With different sets of multiple-choice questions, time limits ranging from 15 seconds to 30, and a silly banana watching over you in the corner (his name's Gary), the pressure's on as you go about the quiz and test your Knowledge on K-2029! Be prepared, because the questions could be as easy as their age or their favorite color, or as difficult as--!..... Oh, what, you thought we were gonna spill? Lol!
 
-5. An outline of the website of at least 5 web pages.  Each outline should have a subtitle (Example: Home, Players, About Us, etc) The website should have a clear home page.  The outline should be descriptive and refrain from using Page 1, Page 2 or Link 1, Link 2.  The outline will be translated as the webpages of your website.
+    Now go ahead! Choose your minion, and see.... _
 
-6. A description on how JS will be incorporated in your website or on one of the webpages.  It must clearly state where it will be used or found on the website.
+    And who knows? Maybe if he's up to it, Gary'll have for you a little surprise...
 
-7. An initial wireframe or mock-up for all the proposed webpages, showing clearly the layout, position of contents (text, images and media files), and the navigation between web pages.  The wireframe should also clearly show actual web pages’ titles and the section headers.  
+<u>Outline of Website:</u>
 
-8. Navigation design should allow users to switch between pages with ease from any of the pages.
-
-9. Lastly, include a footer in your wireframe for copyright notices, source citations and Social Media Links using well known image sprites
-
-10. The project proposal containing above information should be saved as a readme.md inside a Github project repository maintained by members of the pair.  The project team name should be WDProjSectionLastNames.  
+    I. [Website Name] <!-- home page-->
+        A. Navigation Bar/Header
+            1. Home
+            2. About
+            3. Characters
+        B. Characters/Choose Your Minion!
+            1. Bella [K04]
+                a. Question 1
+                   Answer 1
+                b. Question 2
+                   Answer 2
+            2. Isa [K04]
+                a. Question 1
+                   Answer 1
+                b. Question 2
+                   Answer 2
+        C. Footer
