@@ -5,7 +5,7 @@ Title: __
 Second Title: ___
 Logo:
 
-![Bob](bob.png)
+
 
 <u> Description of Website: </u>
 
