@@ -7,7 +7,7 @@ Logo:
 
 ![Bob](bob.png)
 
-<u>Description of Website:</u>
+<u> Description of Website: </u>
 
     [Website name] is a fun and interactive website to quiz you on how well you know selected students of 9-Potassium Batch 2029!
 
@@ -17,7 +17,7 @@ Logo:
 
     And who knows? Maybe if he's up to it, Gary'll have for you a little surprise...
 
-<u>Outline of Website:</u>
+<u> Outline of Website: </u>
 
     I. [Website Name] <!-- home page-->
         A. Navigation Bar/Header
@@ -36,3 +36,12 @@ Logo:
                 b. Question 2
                    Answer 2
         C. Footer
+
+<u> Description on how JS will be incorporated in our website: </u>
+
+    JS will be incorporated in our website to make the quiz more interactive and fun for all those who play. It will be used on [insert place]
+
+<u> Initial Wireframe or Mock-up: </u>
+
+
+
