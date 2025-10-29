@@ -11,7 +11,7 @@ Logo:
 
 <u> Description of Website: </u>
 
-    KKQuiz is a fun and interactive website to quiz you on how well you know selected students of 9-Potassium Batch 2029!
+    KKQuiz! is a fun and interactive website to quiz you on how well you know selected students of 9-Potassium Batch 2029!
 
     With different sets of multiple-choice questions, time limits ranging from 15 seconds to 30, and a silly banana watching over you in the corner (his name's Gary), the pressure's on as you go about the quiz and test your Knowledge on K-2029! Be prepared, because the questions could be as easy as their age or their favorite color, or as difficult as—!..... Oh, what, you thought we were gonna spill? Haha!
 
