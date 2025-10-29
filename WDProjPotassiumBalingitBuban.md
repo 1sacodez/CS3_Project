@@ -7,7 +7,7 @@
 #### Second Title: Potassium (K) Knowledge Quiz: How well do you know your minions?
 Logo:
 
-
+![alt text](<K-K-Quiz! Favicon.webp>)
 
 <u> Description of Website: </u>
 
