@@ -60,4 +60,4 @@ Logo:
 ![KKQuiz! ex._page_for_Mulcho_Question](https://github.com/1sacodez/CS3_Project/blob/main/assets/KKQuiz%20ex._page_for_Mulcho_Question.webp)
 ![KKQuiz! ex._page_for_Two-Choice_Question](https://github.com/1sacodez/CS3_Project/blob/main/assets/KKQuiz%20ex._page_for_Two-Choice_Question.webp)
 ![KKQuiz! ex._page_for_Results](https://github.com/1sacodez/CS3_Project/blob/main/assets/KKQuiz%20%20ex._page_for_Results.webp)
-![KKQuiz References_Page](https://github.com/1sacodez/CS3_Project/blob/main/assets/KKQuiz%20References_Page.webp)
+![KKQuiz! References_Page](https://github.com/1sacodez/CS3_Project/blob/main/assets/KKQuiz%20References_Page.webp)
