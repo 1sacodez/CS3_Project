@@ -55,7 +55,7 @@ Logo:
 <u> Initial Wireframe or Mock-up: </u>
 
 ![KKQuiz ex._page_for_Results](https://github.com/1sacodez/CS3_Project/blob/main/assets/KKQuiz%20%20ex._page_for_Results.webp)
-![KKQuiz About_Page](https://github.com/1sacodez/CS3_Project/blob/main/assets/KKQuiz%20About_Page.webp)
+![KKQuiz About_Page]()
 ![KKQuiz Home_Page](https://github.com/1sacodez/CS3_Project/blob/main/assets/KKQuiz%20Home_Page.webp)
 ![KKQuiz Ready___Start_Game](https://github.com/1sacodez/CS3_Project/blob/main/assets/KKQuiz%20Ready___Start_Game.webp)
 ![KKQuiz References_Page](https://github.com/1sacodez/CS3_Project/blob/main/assets/KKQuiz%20References_Page.webp)
