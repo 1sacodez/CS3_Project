@@ -7,7 +7,7 @@
 #### Second Title: Potassium (K) Knowledge Quiz: How well do you know your minions?
 Logo:
 
-![KKQuiz! Favicon](https://github.com/1sacodez/CS3_Project/blob/main/assets/KKQuiz!%20Favicon.webp)
+![KKQuiz! Favicon](https://github.com/1sacodez/WDProjPotassiumBalingitBuban/blob/main/assets/KKQuiz!%20Favicon.webp)
 
 <u> Description of Website: </u>
 
@@ -54,10 +54,10 @@ Logo:
 
 <u> Initial Wireframe or Mock-up: </u>
 
-![KKQuiz! Home_Page](https://github.com/1sacodez/CS3_Project/blob/main/assets/KKQuiz!%20Home_Page.webp)
-![KKQuiz! About_Page](https://github.com/1sacodez/CS3_Project/blob/main/assets/KKQuiz!%20About_Page.webp)
-![KKQuiz! Ready_Start_Game](https://github.com/1sacodez/CS3_Project/blob/main/assets/KKQuiz!%20Ready_Start_Game.webp)
-![KKQuiz! ex._page_for_Mulcho_Question](https://github.com/1sacodez/CS3_Project/blob/main/assets/KKQuiz!%20ex._page_for_Mulcho_Question.webp)
-![KKQuiz! ex._page_for_Two-Choice_Question](https://github.com/1sacodez/CS3_Project/blob/main/assets/KKQuiz!%20ex._page_for_Two-Choice_Question.webp)
-![KKQuiz! ex._page_for_Results](https://github.com/1sacodez/CS3_Project/blob/main/assets/KKQuiz!%20%20ex._page_for_Results.webp)
-![KKQuiz! References_Page](https://github.com/1sacodez/CS3_Project/blob/main/assets/KKQuiz!%20References_Page.webp)
+![KKQuiz! Home_Page](https://github.com/1sacodez/WDProjPotassiumBalingitBuban/blob/main/assets/KKQuiz!%20Home_Page.webp)
+![KKQuiz! About_Page](https://github.com/1sacodez/WDProjPotassiumBalingitBuban/blob/main/assets/KKQuiz!%20About_Page.webp)
+![KKQuiz! Ready_Start_Game](https://github.com/1sacodez/WDProjPotassiumBalingitBuban/blob/main/assets/KKQuiz!%20Ready_Start_Game.webp)
+![KKQuiz! ex._page_for_Mulcho_Question](https://github.com/1sacodez/WDProjPotassiumBalingitBuban/blob/main/assets/KKQuiz!%20ex._page_for_Mulcho_Question.webp)
+![KKQuiz! ex._page_for_Two-Choice_Question](https://github.com/1sacodez/WDProjPotassiumBalingitBuban/blob/main/assets/KKQuiz!%20ex._page_for_Two-Choice_Question.webp)
+![KKQuiz! ex._page_for_Results](https://github.com/1sacodez/WDProjPotassiumBalingitBuban/blob/main/assets/KKQuiz!%20%20ex._page_for_Results.webp)
+![KKQuiz! References_Page](https://github.com/1sacodez/WDProjPotassiumBalingitBuban/blob/main/assets/KKQuiz!%20References_Page.webp)
